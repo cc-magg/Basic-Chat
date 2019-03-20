@@ -1,3 +1,7 @@
+#omitimos el node_modules
+node_modules/
+LOGICA CHAT.png/
+
 # Logs
 logs
 *.log

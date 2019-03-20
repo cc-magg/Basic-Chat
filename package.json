@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "a very good chat",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "C GG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.16",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "standard": "^12.0.1"
+  }
+}
